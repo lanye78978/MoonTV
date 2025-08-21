@@ -85,5 +85,17 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "cki": {
+      "api": "https://www.ckzy1.com",
+      "name": "CK资源"
+    }
+   "jkun": {
+      "api": "https://jkunzyapi.com",
+      "name": "jkun资源"
+    }
+   "baiwan": {
+      "api": "https://api.bwzym3u8.com",
+      "name": "百万资源"
+    }
   }
 }
